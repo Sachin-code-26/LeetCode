@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sachin-code-26/LeetCode/tree/master/0204-count-primes) |
+| [2614-prime-in-diagonal](https://github.com/Sachin-code-26/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Math
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sachin-code-26/LeetCode/tree/master/0204-count-primes) |
+| [2614-prime-in-diagonal](https://github.com/Sachin-code-26/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Enumeration
 |  |
 | ------- |
@@ -19,4 +21,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sachin-code-26/LeetCode/tree/master/0204-count-primes) |
+| [2614-prime-in-diagonal](https://github.com/Sachin-code-26/LeetCode/tree/master/2614-prime-in-diagonal) |
+## Matrix
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/Sachin-code-26/LeetCode/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
