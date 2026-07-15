@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Sachin-code-26/LeetCode/tree/master/0204-count-primes) |
 | [2614-prime-in-diagonal](https://github.com/Sachin-code-26/LeetCode/tree/master/2614-prime-in-diagonal) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sachin-code-26/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Sachin-code-26/LeetCode/tree/master/0204-count-primes) |
 | [2614-prime-in-diagonal](https://github.com/Sachin-code-26/LeetCode/tree/master/2614-prime-in-diagonal) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Sachin-code-26/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
 | ------- |
