@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0120-triangle](https://github.com/Sachin-code-26/LeetCode/tree/master/0120-triangle) |
 | [0204-count-primes](https://github.com/Sachin-code-26/LeetCode/tree/master/0204-count-primes) |
+| [0332-reconstruct-itinerary](https://github.com/Sachin-code-26/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0455-assign-cookies](https://github.com/Sachin-code-26/LeetCode/tree/master/0455-assign-cookies) |
 | [0752-open-the-lock](https://github.com/Sachin-code-26/LeetCode/tree/master/0752-open-the-lock) |
 | [1331-rank-transform-of-an-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Sachin-code-26/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0455-assign-cookies](https://github.com/Sachin-code-26/LeetCode/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
@@ -60,9 +62,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Sachin-code-26/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0752-open-the-lock](https://github.com/Sachin-code-26/LeetCode/tree/master/0752-open-the-lock) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/Sachin-code-26/LeetCode/tree/master/0752-open-the-lock) |
+## Depth-First Search
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Sachin-code-26/LeetCode/tree/master/0332-reconstruct-itinerary) |
+## Graph Theory
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Sachin-code-26/LeetCode/tree/master/0332-reconstruct-itinerary) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Sachin-code-26/LeetCode/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Sachin-code-26/LeetCode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
