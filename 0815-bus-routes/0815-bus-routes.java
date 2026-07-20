@@ -35,9 +35,9 @@ class Solution {
                         return busCount;
                     }
 
-                    if (!adj.containsKey(stop)) {
-                        continue;
-                    }
+                    // if (!adj.containsKey(stop)) {
+                    //     continue;
+                    // }
 
 
                     for(int nextRoute : adj.get(stop)){
