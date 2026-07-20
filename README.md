@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Sachin-code-26/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2050-parallel-courses-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/2050-parallel-courses-iii) |
 | [2614-prime-in-diagonal](https://github.com/Sachin-code-26/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Math
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0120-triangle](https://github.com/Sachin-code-26/LeetCode/tree/master/0120-triangle) |
 | [0509-fibonacci-number](https://github.com/Sachin-code-26/LeetCode/tree/master/0509-fibonacci-number) |
+| [2050-parallel-courses-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/2050-parallel-courses-iii) |
 ## String
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Sachin-code-26/LeetCode/tree/master/0332-reconstruct-itinerary) |
+| [2050-parallel-courses-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/2050-parallel-courses-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Sachin-code-26/LeetCode/tree/master/1260-shift-2d-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [2050-parallel-courses-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/2050-parallel-courses-iii) |
 <!---LeetCode Topics End-->
