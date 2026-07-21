@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sachin-code-26/LeetCode/tree/master/0204-count-primes) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Sachin-code-26/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Sachin-code-26/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0752-open-the-lock](https://github.com/Sachin-code-26/LeetCode/tree/master/0752-open-the-lock) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sachin-code-26/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Sachin-code-26/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Breadth-First Search
 |  |
 | ------- |
