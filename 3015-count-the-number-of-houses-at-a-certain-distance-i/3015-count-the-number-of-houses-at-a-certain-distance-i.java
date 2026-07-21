@@ -4,7 +4,9 @@ class Solution {
         for (int[] row : grid) {
             Arrays.fill(row, 100000);
         }
-
+          for (int i = 1; i <= n; i++){
+            grid[i][i] = 0;
+          }
         for(int i=1;i<n;i++){
             grid[i][i+1]=1;
             grid[i+1][i]=1;
