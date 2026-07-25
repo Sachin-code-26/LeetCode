@@ -3,6 +3,8 @@ class Solution {
     int[][] direction = {
         {0,1} , {0,-1}, {1,0} ,{-1,0}
     };
+
+    int res=0;
     
     public int uniquePathsIII(int[][] grid) {
         int m=grid.length;
@@ -23,23 +25,27 @@ class Solution {
             }
         }
        
-       return path(grid,x,y,0);
+       path(grid, x, y, 0);
+       return res;
 
       
     }
 
 
-    public int path(int[][] grid , int x , int y, int block) {
+    public void path(int[][] grid , int x , int y, int block) {
         int m=grid.length;
         int n=grid[0].length;
         
 
         if(x<0 || x>=m || y<0 || y>=n || grid[x][y]==-1) {
-            return 0;
+            return ;
         }
 
         if(grid[x][y] == 2){
-           return block == count + 1 ? 1 : 0;
+           if(block == count + 1) {
+            res++;
+           }
+          return;
         }
 
         int temp=grid[x][y];
@@ -49,12 +55,12 @@ class Solution {
             int new_x=x+dirn[0];
             int new_y=y+dirn[1];
 
-            ans+=path(grid,new_x,new_y,block+1);
+             path(grid,new_x,new_y,block+1);
               
         }
 
         grid[x][y]=temp;
 
-        return ans;
+        return ;
     }
 }
