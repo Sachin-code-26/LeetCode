@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sachin-code-26/LeetCode/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Sachin-code-26/LeetCode/tree/master/0120-triangle) |
 | [0204-count-primes](https://github.com/Sachin-code-26/LeetCode/tree/master/0204-count-primes) |
 | [0332-reconstruct-itinerary](https://github.com/Sachin-code-26/LeetCode/tree/master/0332-reconstruct-itinerary) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sachin-code-26/LeetCode/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/Sachin-code-26/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Sachin-code-26/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2614-prime-in-diagonal](https://github.com/Sachin-code-26/LeetCode/tree/master/2614-prime-in-diagonal) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sachin-code-26/LeetCode/tree/master/0079-word-search) |
 | [0316-remove-duplicate-letters](https://github.com/Sachin-code-26/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0332-reconstruct-itinerary](https://github.com/Sachin-code-26/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0752-open-the-lock](https://github.com/Sachin-code-26/LeetCode/tree/master/0752-open-the-lock) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sachin-code-26/LeetCode/tree/master/0079-word-search) |
 | [0332-reconstruct-itinerary](https://github.com/Sachin-code-26/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [3123-find-edges-in-shortest-paths](https://github.com/Sachin-code-26/LeetCode/tree/master/3123-find-edges-in-shortest-paths) |
 ## Graph Theory
@@ -168,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sachin-code-26/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Sachin-code-26/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
