@@ -88,12 +88,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/Sachin-code-26/LeetCode/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/Sachin-code-26/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Sachin-code-26/LeetCode/tree/master/0509-fibonacci-number) |
 | [2050-parallel-courses-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/2050-parallel-courses-iii) |
 ## String
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sachin-code-26/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Sachin-code-26/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0316-remove-duplicate-letters](https://github.com/Sachin-code-26/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0332-reconstruct-itinerary](https://github.com/Sachin-code-26/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0752-open-the-lock](https://github.com/Sachin-code-26/LeetCode/tree/master/0752-open-the-lock) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sachin-code-26/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Sachin-code-26/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/Sachin-code-26/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
