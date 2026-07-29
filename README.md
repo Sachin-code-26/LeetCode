@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Sachin-code-26/LeetCode/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Sachin-code-26/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sachin-code-26/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Sachin-code-26/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/Sachin-code-26/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sachin-code-26/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Sachin-code-26/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0752-open-the-lock](https://github.com/Sachin-code-26/LeetCode/tree/master/0752-open-the-lock) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sachin-code-26/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Sachin-code-26/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sachin-code-26/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sachin-code-26/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sachin-code-26/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
