@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Sachin-code-26/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Sachin-code-26/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2050-parallel-courses-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/2050-parallel-courses-iii) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Sachin-code-26/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Sachin-code-26/LeetCode/tree/master/0204-count-primes) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Sachin-code-26/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sachin-code-26/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/Sachin-code-26/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/0980-unique-paths-iii) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Sachin-code-26/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/Sachin-code-26/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sachin-code-26/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Sachin-code-26/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0491-non-decreasing-subsequences](https://github.com/Sachin-code-26/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/0980-unique-paths-iii) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Sachin-code-26/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/Sachin-code-26/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 ## Bitmask
 |  |
