@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Sachin-code-26/LeetCode/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Sachin-code-26/LeetCode/tree/master/0120-triangle) |
 | [0204-count-primes](https://github.com/Sachin-code-26/LeetCode/tree/master/0204-count-primes) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/Sachin-code-26/LeetCode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Sachin-code-26/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Sachin-code-26/LeetCode/tree/master/0131-palindrome-partitioning) |
