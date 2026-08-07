@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/Sachin-code-26/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2364-count-number-of-bad-pairs](https://github.com/Sachin-code-26/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2614-prime-in-diagonal](https://github.com/Sachin-code-26/LeetCode/tree/master/2614-prime-in-diagonal) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Sachin-code-26/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Sachin-code-26/LeetCode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sachin-code-26/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Sachin-code-26/LeetCode/tree/master/0752-open-the-lock) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sachin-code-26/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sachin-code-26/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Sachin-code-26/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sachin-code-26/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sachin-code-26/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
