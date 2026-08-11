@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Sachin-code-26/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sachin-code-26/LeetCode/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Sachin-code-26/LeetCode/tree/master/0120-triangle) |
+| [0198-house-robber](https://github.com/Sachin-code-26/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Sachin-code-26/LeetCode/tree/master/0204-count-primes) |
 | [0332-reconstruct-itinerary](https://github.com/Sachin-code-26/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0377-combination-sum-iv](https://github.com/Sachin-code-26/LeetCode/tree/master/0377-combination-sum-iv) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sachin-code-26/LeetCode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Sachin-code-26/LeetCode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Sachin-code-26/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/Sachin-code-26/LeetCode/tree/master/0198-house-robber) |
 | [0377-combination-sum-iv](https://github.com/Sachin-code-26/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0509-fibonacci-number](https://github.com/Sachin-code-26/LeetCode/tree/master/0509-fibonacci-number) |
 | [2050-parallel-courses-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/2050-parallel-courses-iii) |
