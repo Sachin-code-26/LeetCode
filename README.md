@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Sachin-code-26/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Sachin-code-26/LeetCode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Sachin-code-26/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0332-reconstruct-itinerary](https://github.com/Sachin-code-26/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0377-combination-sum-iv](https://github.com/Sachin-code-26/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0455-assign-cookies](https://github.com/Sachin-code-26/LeetCode/tree/master/0455-assign-cookies) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Sachin-code-26/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Sachin-code-26/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Sachin-code-26/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Sachin-code-26/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0509-fibonacci-number](https://github.com/Sachin-code-26/LeetCode/tree/master/0509-fibonacci-number) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -273,4 +275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Sachin-code-26/LeetCode/tree/master/0051-n-queens) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Sachin-code-26/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Sachin-code-26/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
