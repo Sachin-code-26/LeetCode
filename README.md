@@ -334,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Sachin-code-26/LeetCode/tree/master/0796-rotate-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Sachin-code-26/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
