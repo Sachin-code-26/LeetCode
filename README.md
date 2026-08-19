@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Sachin-code-26/LeetCode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Sachin-code-26/LeetCode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Sachin-code-26/LeetCode/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/Sachin-code-26/LeetCode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sachin-code-26/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/Sachin-code-26/LeetCode/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
