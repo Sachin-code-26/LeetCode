@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Sachin-code-26/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sachin-code-26/LeetCode/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Sachin-code-26/LeetCode/tree/master/0120-triangle) |
+| [0174-dungeon-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Sachin-code-26/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Sachin-code-26/LeetCode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/0213-house-robber-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sachin-code-26/LeetCode/tree/master/0079-word-search) |
+| [0174-dungeon-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0174-dungeon-game) |
 | [0980-unique-paths-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/0980-unique-paths-iii) |
 | [0999-available-captures-for-rook](https://github.com/Sachin-code-26/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1219-path-with-maximum-gold](https://github.com/Sachin-code-26/LeetCode/tree/master/1219-path-with-maximum-gold) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Sachin-code-26/LeetCode/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Sachin-code-26/LeetCode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Sachin-code-26/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0174-dungeon-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Sachin-code-26/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Sachin-code-26/LeetCode/tree/master/0300-longest-increasing-subsequence) |
