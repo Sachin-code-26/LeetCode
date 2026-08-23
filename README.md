@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Sachin-code-26/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0752-open-the-lock](https://github.com/Sachin-code-26/LeetCode/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/Sachin-code-26/LeetCode/tree/master/0815-bus-routes) |
+| [0877-stone-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0877-stone-game) |
 | [0948-bag-of-tokens](https://github.com/Sachin-code-26/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0980-unique-paths-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/0980-unique-paths-iii) |
 | [0999-available-captures-for-rook](https://github.com/Sachin-code-26/LeetCode/tree/master/0999-available-captures-for-rook) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Sachin-code-26/LeetCode/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Sachin-code-26/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sachin-code-26/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0877-stone-game) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sachin-code-26/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1927-sum-game](https://github.com/Sachin-code-26/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sachin-code-26/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Sachin-code-26/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/Sachin-code-26/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Sachin-code-26/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sachin-code-26/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -390,5 +393,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/Sachin-code-26/LeetCode/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
