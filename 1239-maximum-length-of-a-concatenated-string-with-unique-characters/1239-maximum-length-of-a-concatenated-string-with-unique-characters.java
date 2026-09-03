@@ -1,4 +1,5 @@
 class Solution {
+    HashMap<String, Integer> dp = new HashMap<>();
     public int maxLength(List<String> arr) {
         String temp = new String();
         
@@ -9,6 +10,12 @@ class Solution {
         int n = arr.size();
         if(idx>=n) {
             return temp.length();
+        }
+
+        String key = idx + "#" + temp;
+
+        if (dp.containsKey(key)) {
+            return dp.get(key);
         }
 
         int take = 0;
@@ -22,7 +29,7 @@ class Solution {
              skip = solve(idx+1,arr,temp);
         }
        
-
+        dp.put(key, Math.max(take,skip));
        return Math.max(take,skip);
     }
 
