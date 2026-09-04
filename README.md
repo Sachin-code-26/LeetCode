@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/Sachin-code-26/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1048-longest-string-chain](https://github.com/Sachin-code-26/LeetCode/tree/master/1048-longest-string-chain) |
 | [1219-path-with-maximum-gold](https://github.com/Sachin-code-26/LeetCode/tree/master/1219-path-with-maximum-gold) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Sachin-code-26/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Sachin-code-26/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1260-shift-2d-grid](https://github.com/Sachin-code-26/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Sachin-code-26/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-bag-of-tokens](https://github.com/Sachin-code-26/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1048-longest-string-chain](https://github.com/Sachin-code-26/LeetCode/tree/master/1048-longest-string-chain) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Sachin-code-26/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Sachin-code-26/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Sachin-code-26/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Sachin-code-26/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sachin-code-26/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Sachin-code-26/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sachin-code-26/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Sachin-code-26/LeetCode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Sachin-code-26/LeetCode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Sachin-code-26/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Sachin-code-26/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
