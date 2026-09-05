@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/Sachin-code-26/LeetCode/tree/master/0815-bus-routes) |
 | [0848-shifting-letters](https://github.com/Sachin-code-26/LeetCode/tree/master/0848-shifting-letters) |
 | [0877-stone-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/Sachin-code-26/LeetCode/tree/master/0948-bag-of-tokens) |
 | [0980-unique-paths-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/0980-unique-paths-iii) |
 | [0999-available-captures-for-rook](https://github.com/Sachin-code-26/LeetCode/tree/master/0999-available-captures-for-rook) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Sachin-code-26/LeetCode/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0174-dungeon-game) |
+| [0931-minimum-falling-path-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/0980-unique-paths-iii) |
 | [0999-available-captures-for-rook](https://github.com/Sachin-code-26/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1219-path-with-maximum-gold](https://github.com/Sachin-code-26/LeetCode/tree/master/1219-path-with-maximum-gold) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Sachin-code-26/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Sachin-code-26/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/Sachin-code-26/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Sachin-code-26/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sachin-code-26/LeetCode/tree/master/1143-longest-common-subsequence) |
