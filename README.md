@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Sachin-code-26/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Sachin-code-26/LeetCode/tree/master/0051-n-queens) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Sachin-code-26/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Sachin-code-26/LeetCode/tree/master/0409-longest-palindrome) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sachin-code-26/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sachin-code-26/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sachin-code-26/LeetCode/tree/master/0070-climbing-stairs) |
