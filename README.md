@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Sachin-code-26/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Sachin-code-26/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0790-domino-and-tromino-tiling](https://github.com/Sachin-code-26/LeetCode/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/Sachin-code-26/LeetCode/tree/master/1048-longest-string-chain) |
