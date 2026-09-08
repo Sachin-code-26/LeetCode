@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Sachin-code-26/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Sachin-code-26/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sachin-code-26/LeetCode/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Sachin-code-26/LeetCode/tree/master/0120-triangle) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Sachin-code-26/LeetCode/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0174-dungeon-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sachin-code-26/LeetCode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sachin-code-26/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Sachin-code-26/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Sachin-code-26/LeetCode/tree/master/0115-distinct-subsequences) |
