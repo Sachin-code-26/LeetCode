@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Sachin-code-26/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Sachin-code-26/LeetCode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1402-reducing-dishes](https://github.com/Sachin-code-26/LeetCode/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Sachin-code-26/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Sachin-code-26/LeetCode/tree/master/1048-longest-string-chain) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sachin-code-26/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1402-reducing-dishes](https://github.com/Sachin-code-26/LeetCode/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Sachin-code-26/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Sachin-code-26/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-bag-of-tokens](https://github.com/Sachin-code-26/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sachin-code-26/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1402-reducing-dishes](https://github.com/Sachin-code-26/LeetCode/tree/master/1402-reducing-dishes) |
 | [1927-sum-game](https://github.com/Sachin-code-26/LeetCode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sachin-code-26/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sachin-code-26/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sachin-code-26/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Sachin-code-26/LeetCode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1402-reducing-dishes](https://github.com/Sachin-code-26/LeetCode/tree/master/1402-reducing-dishes) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Sachin-code-26/LeetCode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2050-parallel-courses-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/2050-parallel-courses-iii) |
