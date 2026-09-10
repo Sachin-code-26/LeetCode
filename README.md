@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Sachin-code-26/LeetCode/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Sachin-code-26/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sachin-code-26/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2050-parallel-courses-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/2050-parallel-courses-iii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Sachin-code-26/LeetCode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1402-reducing-dishes](https://github.com/Sachin-code-26/LeetCode/tree/master/1402-reducing-dishes) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Sachin-code-26/LeetCode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sachin-code-26/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2050-parallel-courses-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/2050-parallel-courses-iii) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Sachin-code-26/LeetCode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Sachin-code-26/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Sachin-code-26/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sachin-code-26/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sachin-code-26/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sachin-code-26/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1927-sum-game](https://github.com/Sachin-code-26/LeetCode/tree/master/1927-sum-game) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Sachin-code-26/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
