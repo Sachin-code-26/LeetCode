@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sachin-code-26/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Sachin-code-26/LeetCode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1402-reducing-dishes](https://github.com/Sachin-code-26/LeetCode/tree/master/1402-reducing-dishes) |
+| [1416-restore-the-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1416-restore-the-array) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Sachin-code-26/LeetCode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sachin-code-26/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Sachin-code-26/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Sachin-code-26/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sachin-code-26/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1416-restore-the-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1416-restore-the-array) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sachin-code-26/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sachin-code-26/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1927-sum-game](https://github.com/Sachin-code-26/LeetCode/tree/master/1927-sum-game) |
