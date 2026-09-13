@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/Sachin-code-26/LeetCode/tree/master/2140-solving-questions-with-brainpower) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Sachin-code-26/LeetCode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2305-fair-distribution-of-cookies](https://github.com/Sachin-code-26/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
+| [2466-count-ways-to-build-good-strings](https://github.com/Sachin-code-26/LeetCode/tree/master/2466-count-ways-to-build-good-strings) |
 ## String
 |  |
 | ------- |
