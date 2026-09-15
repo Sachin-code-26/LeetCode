@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/Sachin-code-26/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1035-uncrossed-lines](https://github.com/Sachin-code-26/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/Sachin-code-26/LeetCode/tree/master/1048-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/1140-stone-game-ii) |
 | [1219-path-with-maximum-gold](https://github.com/Sachin-code-26/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sachin-code-26/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Sachin-code-26/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Sachin-code-26/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sachin-code-26/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/1140-stone-game-ii) |
 | [1799-maximize-score-after-n-operations](https://github.com/Sachin-code-26/LeetCode/tree/master/1799-maximize-score-after-n-operations) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sachin-code-26/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1927-sum-game](https://github.com/Sachin-code-26/LeetCode/tree/master/1927-sum-game) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/Sachin-code-26/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1048-longest-string-chain](https://github.com/Sachin-code-26/LeetCode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Sachin-code-26/LeetCode/tree/master/1092-shortest-common-supersequence) |
+| [1140-stone-game-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Sachin-code-26/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sachin-code-26/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sachin-code-26/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0848-shifting-letters](https://github.com/Sachin-code-26/LeetCode/tree/master/0848-shifting-letters) |
+| [1140-stone-game-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/1140-stone-game-ii) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Sachin-code-26/LeetCode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Sachin-code-26/LeetCode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Sachin-code-26/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
@@ -473,13 +477,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/1140-stone-game-ii) |
 | [1927-sum-game](https://github.com/Sachin-code-26/LeetCode/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
