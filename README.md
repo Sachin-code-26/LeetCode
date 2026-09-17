@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Sachin-code-26/LeetCode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Sachin-code-26/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2305-fair-distribution-of-cookies](https://github.com/Sachin-code-26/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Sachin-code-26/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2364-count-number-of-bad-pairs](https://github.com/Sachin-code-26/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2614-prime-in-diagonal](https://github.com/Sachin-code-26/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Sachin-code-26/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/Sachin-code-26/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/Sachin-code-26/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Sachin-code-26/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Sachin-code-26/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2614-prime-in-diagonal](https://github.com/Sachin-code-26/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Hash Table
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/Sachin-code-26/LeetCode/tree/master/2140-solving-questions-with-brainpower) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Sachin-code-26/LeetCode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2305-fair-distribution-of-cookies](https://github.com/Sachin-code-26/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Sachin-code-26/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2466-count-ways-to-build-good-strings](https://github.com/Sachin-code-26/LeetCode/tree/master/2466-count-ways-to-build-good-strings) |
 ## String
 |  |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Sachin-code-26/LeetCode/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/Sachin-code-26/LeetCode/tree/master/0815-bus-routes) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Sachin-code-26/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Sachin-code-26/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Sachin-code-26/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3123-find-edges-in-shortest-paths](https://github.com/Sachin-code-26/LeetCode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Sachin-code-26/LeetCode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Sachin-code-26/LeetCode/tree/master/0079-word-search) |
 | [0332-reconstruct-itinerary](https://github.com/Sachin-code-26/LeetCode/tree/master/0332-reconstruct-itinerary) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Sachin-code-26/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3123-find-edges-in-shortest-paths](https://github.com/Sachin-code-26/LeetCode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3310-remove-methods-from-project](https://github.com/Sachin-code-26/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -304,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Sachin-code-26/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [2050-parallel-courses-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/2050-parallel-courses-iii) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Sachin-code-26/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Sachin-code-26/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3015-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Sachin-code-26/LeetCode/tree/master/3015-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3123-find-edges-in-shortest-paths](https://github.com/Sachin-code-26/LeetCode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Sachin-code-26/LeetCode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
@@ -331,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sachin-code-26/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sachin-code-26/LeetCode/tree/master/0509-fibonacci-number) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Sachin-code-26/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -351,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-parallel-courses-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/2050-parallel-courses-iii) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/Sachin-code-26/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
