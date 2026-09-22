@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Sachin-code-26/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sachin-code-26/LeetCode/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/Sachin-code-26/LeetCode/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/Sachin-code-26/LeetCode/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Sachin-code-26/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Sachin-code-26/LeetCode/tree/master/0204-count-primes) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sachin-code-26/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/Sachin-code-26/LeetCode/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0409-longest-palindrome](https://github.com/Sachin-code-26/LeetCode/tree/master/0409-longest-palindrome) |
 | [0491-non-decreasing-subsequences](https://github.com/Sachin-code-26/LeetCode/tree/master/0491-non-decreasing-subsequences) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Sachin-code-26/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Sachin-code-26/LeetCode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Sachin-code-26/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Sachin-code-26/LeetCode/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Sachin-code-26/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/0213-house-robber-ii) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Sachin-code-26/LeetCode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Sachin-code-26/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Sachin-code-26/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Sachin-code-26/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Sachin-code-26/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/Sachin-code-26/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0332-reconstruct-itinerary](https://github.com/Sachin-code-26/LeetCode/tree/master/0332-reconstruct-itinerary) |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sachin-code-26/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Sachin-code-26/LeetCode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Sachin-code-26/LeetCode/tree/master/0509-fibonacci-number) |
 | [1575-count-all-possible-routes](https://github.com/Sachin-code-26/LeetCode/tree/master/1575-count-all-possible-routes) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Sachin-code-26/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -588,4 +593,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/Sachin-code-26/LeetCode/tree/master/0808-soup-servings) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Sachin-code-26/LeetCode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Sachin-code-26/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
