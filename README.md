@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Sachin-code-26/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Sachin-code-26/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0688-knight-probability-in-chessboard](https://github.com/Sachin-code-26/LeetCode/tree/master/0688-knight-probability-in-chessboard) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sachin-code-26/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sachin-code-26/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0790-domino-and-tromino-tiling](https://github.com/Sachin-code-26/LeetCode/tree/master/0790-domino-and-tromino-tiling) |
 | [0808-soup-servings](https://github.com/Sachin-code-26/LeetCode/tree/master/0808-soup-servings) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Sachin-code-26/LeetCode/tree/master/0409-longest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sachin-code-26/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Sachin-code-26/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sachin-code-26/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0752-open-the-lock](https://github.com/Sachin-code-26/LeetCode/tree/master/0752-open-the-lock) |
 | [0796-rotate-string](https://github.com/Sachin-code-26/LeetCode/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/Sachin-code-26/LeetCode/tree/master/0848-shifting-letters) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sachin-code-26/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1035-uncrossed-lines](https://github.com/Sachin-code-26/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/Sachin-code-26/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sachin-code-26/LeetCode/tree/master/1143-longest-common-subsequence) |
