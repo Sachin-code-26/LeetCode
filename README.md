@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sachin-code-26/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0808-soup-servings](https://github.com/Sachin-code-26/LeetCode/tree/master/0808-soup-servings) |
 | [0877-stone-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0877-stone-game) |
+| [0920-number-of-music-playlists](https://github.com/Sachin-code-26/LeetCode/tree/master/0920-number-of-music-playlists) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sachin-code-26/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/1406-stone-game-iii) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/Sachin-code-26/LeetCode/tree/master/0790-domino-and-tromino-tiling) |
 | [0808-soup-servings](https://github.com/Sachin-code-26/LeetCode/tree/master/0808-soup-servings) |
 | [0877-stone-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0877-stone-game) |
+| [0920-number-of-music-playlists](https://github.com/Sachin-code-26/LeetCode/tree/master/0920-number-of-music-playlists) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Sachin-code-26/LeetCode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0931-minimum-falling-path-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0956-tallest-billboard](https://github.com/Sachin-code-26/LeetCode/tree/master/0956-tallest-billboard) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sachin-code-26/LeetCode/tree/master/0062-unique-paths) |
+| [0920-number-of-music-playlists](https://github.com/Sachin-code-26/LeetCode/tree/master/0920-number-of-music-playlists) |
 ## Knapsack Problem
 |  |
 | ------- |
