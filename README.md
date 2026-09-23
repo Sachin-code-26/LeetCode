@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/Sachin-code-26/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Sachin-code-26/LeetCode/tree/master/0322-coin-change) |
 | [0752-open-the-lock](https://github.com/Sachin-code-26/LeetCode/tree/master/0752-open-the-lock) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sachin-code-26/LeetCode/tree/master/0079-word-search) |
+| [0112-path-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/0112-path-sum) |
 | [0332-reconstruct-itinerary](https://github.com/Sachin-code-26/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Sachin-code-26/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3123-find-edges-in-shortest-paths](https://github.com/Sachin-code-26/LeetCode/tree/master/3123-find-edges-in-shortest-paths) |
@@ -608,4 +610,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Sachin-code-26/LeetCode/tree/master/0139-word-break) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
