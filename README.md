@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sachin-code-26/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sachin-code-26/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/Sachin-code-26/LeetCode/tree/master/0790-domino-and-tromino-tiling) |
+| [0799-champagne-tower](https://github.com/Sachin-code-26/LeetCode/tree/master/0799-champagne-tower) |
 | [0808-soup-servings](https://github.com/Sachin-code-26/LeetCode/tree/master/0808-soup-servings) |
 | [0877-stone-game](https://github.com/Sachin-code-26/LeetCode/tree/master/0877-stone-game) |
 | [0920-number-of-music-playlists](https://github.com/Sachin-code-26/LeetCode/tree/master/0920-number-of-music-playlists) |
