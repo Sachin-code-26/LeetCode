@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Sachin-code-26/LeetCode/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Sachin-code-26/LeetCode/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/Sachin-code-26/LeetCode/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/Sachin-code-26/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Sachin-code-26/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sachin-code-26/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Sachin-code-26/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sachin-code-26/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Sachin-code-26/LeetCode/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/Sachin-code-26/LeetCode/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/Sachin-code-26/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Sachin-code-26/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0486-predict-the-winner](https://github.com/Sachin-code-26/LeetCode/tree/master/0486-predict-the-winner) |
