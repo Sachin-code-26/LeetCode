@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Sachin-code-26/LeetCode/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sachin-code-26/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Sachin-code-26/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Sachin-code-26/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1575-count-all-possible-routes](https://github.com/Sachin-code-26/LeetCode/tree/master/1575-count-all-possible-routes) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/1406-stone-game-iii) |
 | [1416-restore-the-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1416-restore-the-array) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Sachin-code-26/LeetCode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Sachin-code-26/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-stone-game-iv](https://github.com/Sachin-code-26/LeetCode/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Sachin-code-26/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1575-count-all-possible-routes](https://github.com/Sachin-code-26/LeetCode/tree/master/1575-count-all-possible-routes) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-uncrossed-lines](https://github.com/Sachin-code-26/LeetCode/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/Sachin-code-26/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sachin-code-26/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Sachin-code-26/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Sliding Window
 |  |
 | ------- |
