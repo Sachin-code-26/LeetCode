@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-number-of-music-playlists](https://github.com/Sachin-code-26/LeetCode/tree/master/0920-number-of-music-playlists) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Sachin-code-26/LeetCode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0931-minimum-falling-path-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [0935-knight-dialer](https://github.com/Sachin-code-26/LeetCode/tree/master/0935-knight-dialer) |
 | [0956-tallest-billboard](https://github.com/Sachin-code-26/LeetCode/tree/master/0956-tallest-billboard) |
 | [0983-minimum-cost-for-tickets](https://github.com/Sachin-code-26/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Sachin-code-26/LeetCode/tree/master/1027-longest-arithmetic-subsequence) |
