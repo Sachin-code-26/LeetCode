@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Sachin-code-26/LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Sachin-code-26/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Sachin-code-26/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sachin-code-26/LeetCode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/Sachin-code-26/LeetCode/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
