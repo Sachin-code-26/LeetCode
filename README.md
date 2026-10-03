@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sachin-code-26/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Sachin-code-26/LeetCode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/Sachin-code-26/LeetCode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Sachin-code-26/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Sachin-code-26/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Sachin-code-26/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Sachin-code-26/LeetCode/tree/master/0120-triangle) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Sachin-code-26/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Sachin-code-26/LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Sachin-code-26/LeetCode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Sachin-code-26/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Sachin-code-26/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Sachin-code-26/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Sachin-code-26/LeetCode/tree/master/0131-palindrome-partitioning) |
