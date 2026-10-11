@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Sachin-code-26/LeetCode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sachin-code-26/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-stone-game-iv](https://github.com/Sachin-code-26/LeetCode/tree/master/1510-stone-game-iv) |
+| [1531-string-compression-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/1531-string-compression-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Sachin-code-26/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1575-count-all-possible-routes](https://github.com/Sachin-code-26/LeetCode/tree/master/1575-count-all-possible-routes) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sachin-code-26/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Sachin-code-26/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sachin-code-26/LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1416-restore-the-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1416-restore-the-array) |
+| [1531-string-compression-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/1531-string-compression-ii) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sachin-code-26/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1768-merge-strings-alternately](https://github.com/Sachin-code-26/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sachin-code-26/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
