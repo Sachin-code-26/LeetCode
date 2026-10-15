@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Sachin-code-26/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Sachin-code-26/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Sachin-code-26/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sachin-code-26/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sachin-code-26/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Sachin-code-26/LeetCode/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sachin-code-26/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2364-count-number-of-bad-pairs](https://github.com/Sachin-code-26/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2707-extra-characters-in-a-string](https://github.com/Sachin-code-26/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Sachin-code-26/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sachin-code-26/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sachin-code-26/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Sachin-code-26/LeetCode/tree/master/3731-find-missing-elements) |
@@ -654,4 +656,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/0112-path-sum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sachin-code-26/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sachin-code-26/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
