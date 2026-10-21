@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1575-count-all-possible-routes](https://github.com/Sachin-code-26/LeetCode/tree/master/1575-count-all-possible-routes) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Sachin-code-26/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sachin-code-26/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1672-richest-customer-wealth](https://github.com/Sachin-code-26/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1799-maximize-score-after-n-operations](https://github.com/Sachin-code-26/LeetCode/tree/master/1799-maximize-score-after-n-operations) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/Sachin-code-26/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1219-path-with-maximum-gold](https://github.com/Sachin-code-26/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/Sachin-code-26/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1672-richest-customer-wealth](https://github.com/Sachin-code-26/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Sachin-code-26/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Sachin-code-26/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2614-prime-in-diagonal](https://github.com/Sachin-code-26/LeetCode/tree/master/2614-prime-in-diagonal) |
