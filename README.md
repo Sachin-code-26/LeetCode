@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sachin-code-26/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2050-parallel-courses-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/2050-parallel-courses-iii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Sachin-code-26/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2140-solving-questions-with-brainpower](https://github.com/Sachin-code-26/LeetCode/tree/master/2140-solving-questions-with-brainpower) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/Sachin-code-26/LeetCode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Sachin-code-26/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Sachin-code-26/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1048-longest-string-chain](https://github.com/Sachin-code-26/LeetCode/tree/master/1048-longest-string-chain) |
 | [1768-merge-strings-alternately](https://github.com/Sachin-code-26/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Sachin-code-26/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Sachin-code-26/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sachin-code-26/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1927-sum-game](https://github.com/Sachin-code-26/LeetCode/tree/master/1927-sum-game) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Sachin-code-26/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2707-extra-characters-in-a-string](https://github.com/Sachin-code-26/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Sachin-code-26/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sachin-code-26/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
