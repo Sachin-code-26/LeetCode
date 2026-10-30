@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/Sachin-code-26/LeetCode/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Sachin-code-26/LeetCode/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1672-richest-customer-wealth](https://github.com/Sachin-code-26/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/Sachin-code-26/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1799-maximize-score-after-n-operations](https://github.com/Sachin-code-26/LeetCode/tree/master/1799-maximize-score-after-n-operations) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Sachin-code-26/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/Sachin-code-26/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Sachin-code-26/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2364-count-number-of-bad-pairs](https://github.com/Sachin-code-26/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2707-extra-characters-in-a-string](https://github.com/Sachin-code-26/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Sachin-code-26/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Sachin-code-26/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/Sachin-code-26/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Sachin-code-26/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2364-count-number-of-bad-pairs](https://github.com/Sachin-code-26/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sachin-code-26/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
