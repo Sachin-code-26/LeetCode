@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Sachin-code-26/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Sachin-code-26/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1859-sorting-the-sentence](https://github.com/Sachin-code-26/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sachin-code-26/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Sachin-code-26/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/Sachin-code-26/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/Sachin-code-26/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sachin-code-26/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1859-sorting-the-sentence](https://github.com/Sachin-code-26/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1927-sum-game](https://github.com/Sachin-code-26/LeetCode/tree/master/1927-sum-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sachin-code-26/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2707-extra-characters-in-a-string](https://github.com/Sachin-code-26/LeetCode/tree/master/2707-extra-characters-in-a-string) |
@@ -693,4 +695,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sachin-code-26/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Sachin-code-26/LeetCode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
