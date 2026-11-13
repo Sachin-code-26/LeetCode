@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Sachin-code-26/LeetCode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1920-build-array-from-permutation](https://github.com/Sachin-code-26/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sachin-code-26/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sachin-code-26/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2050-parallel-courses-iii](https://github.com/Sachin-code-26/LeetCode/tree/master/2050-parallel-courses-iii) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Sachin-code-26/LeetCode/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/Sachin-code-26/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1927-sum-game](https://github.com/Sachin-code-26/LeetCode/tree/master/1927-sum-game) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sachin-code-26/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sachin-code-26/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2707-extra-characters-in-a-string](https://github.com/Sachin-code-26/LeetCode/tree/master/2707-extra-characters-in-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Sachin-code-26/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
