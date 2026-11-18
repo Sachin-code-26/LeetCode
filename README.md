@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Sachin-code-26/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1260-shift-2d-grid](https://github.com/Sachin-code-26/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Sachin-code-26/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Sachin-code-26/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Sachin-code-26/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1331-rank-transform-of-an-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Sachin-code-26/LeetCode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
