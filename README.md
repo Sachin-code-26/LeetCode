@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Sachin-code-26/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2305-fair-distribution-of-cookies](https://github.com/Sachin-code-26/LeetCode/tree/master/2305-fair-distribution-of-cookies) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Sachin-code-26/LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sachin-code-26/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2364-count-number-of-bad-pairs](https://github.com/Sachin-code-26/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/Sachin-code-26/LeetCode/tree/master/2369-check-if-there-is-a-valid-partition-for-the-array) |
 | [2418-sort-the-people](https://github.com/Sachin-code-26/LeetCode/tree/master/2418-sort-the-people) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Sachin-code-26/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1512-number-of-good-pairs](https://github.com/Sachin-code-26/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Sachin-code-26/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sachin-code-26/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2364-count-number-of-bad-pairs](https://github.com/Sachin-code-26/LeetCode/tree/master/2364-count-number-of-bad-pairs) |
 | [2418-sort-the-people](https://github.com/Sachin-code-26/LeetCode/tree/master/2418-sort-the-people) |
 | [2707-extra-characters-in-a-string](https://github.com/Sachin-code-26/LeetCode/tree/master/2707-extra-characters-in-a-string) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1859-sorting-the-sentence](https://github.com/Sachin-code-26/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sachin-code-26/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sachin-code-26/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/Sachin-code-26/LeetCode/tree/master/2418-sort-the-people) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Sachin-code-26/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Sachin-code-26/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1927-sum-game](https://github.com/Sachin-code-26/LeetCode/tree/master/1927-sum-game) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sachin-code-26/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sachin-code-26/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sachin-code-26/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sachin-code-26/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sachin-code-26/LeetCode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Sachin-code-26/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Sachin-code-26/LeetCode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sachin-code-26/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3123-find-edges-in-shortest-paths](https://github.com/Sachin-code-26/LeetCode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sachin-code-26/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Eulerian Circuit
@@ -476,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Sachin-code-26/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Sachin-code-26/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sachin-code-26/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sachin-code-26/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sachin-code-26/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sachin-code-26/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Topological Sort
